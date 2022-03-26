@@ -1,0 +1,20 @@
+.header_name{
+    color: rosybrown;
+}
+.sizeimg{
+height: 100px;
+width: 100px;
+padding: 10px;
+}
+
+.iduser1{
+     color:rosybrown ;
+
+}
+.classlist{
+    list-style-type:none;
+}
+/* 
+.button1{
+   margin: 10px;
+} */
